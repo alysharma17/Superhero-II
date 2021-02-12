@@ -1,0 +1,8 @@
+body {
+    background-image:url("avenger_bg.jpg")
+}
+#mycanvas{
+    border-style: ridge;
+    border-width:10px;
+    background-color: aliceblue;
+}
